@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 <setList>
   <song>
-    <title>Kauf oder stirb&#13;</title>
-    <artist>Slime&#13;</artist>
+    <title>Kauf oder stirb&#xD;&#xA;</title>
+    <artist>Slime</artist>
     <genre>Punk Rock</genre>
     <year>1982</year>
   </song>
