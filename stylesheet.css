@@ -3,6 +3,7 @@ setList {
   margin: 10px;
   padding: 50px;
   font-family: "Rock Salt", "Matisse ITC", "Lucida Handwriting", sans-serif;
+  white-space: pre-line;
 }
 
 title {
